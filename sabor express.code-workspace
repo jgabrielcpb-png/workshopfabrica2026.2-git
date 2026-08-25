@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "sabor express",
+			"path": "../../sabor express"
+		},
+		{
+			"name": "cadastro farmacia",
+			"path": "../../cadastro farmacia"
+		},
+		{
+			"name": "jogo de adivinhaçao",
+			"path": "../../jogo de adivinhaçao"
+		},
+		{
+			"name": "exercicios",
+			"path": ".."
+		},
+		{
+			"name": "restaurante em python",
+			"path": "../../restaurante em python"
+		},
+		{
+			"path": "../../meus projetos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exercicios"
+	}
+}
